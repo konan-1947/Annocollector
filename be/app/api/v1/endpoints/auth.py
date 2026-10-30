@@ -37,7 +37,7 @@ def _token_response(response: Response, issued: IssuedTokens) -> TokenResponse:
         path=REFRESH_COOKIE_PATH,
         httponly=True,
         secure=settings.REFRESH_COOKIE_SECURE,
-        samesite="strict",
+        samesite=settings.REFRESH_COOKIE_SAMESITE,
     )
     return TokenResponse(
         access_token=issued.access_token,
@@ -79,7 +79,7 @@ async def logout(auth: AuthServiceDep, refresh_token: RefreshCookie = None) -> R
         path=REFRESH_COOKIE_PATH,
         httponly=True,
         secure=settings.REFRESH_COOKIE_SECURE,
-        samesite="strict",
+        samesite=settings.REFRESH_COOKIE_SAMESITE,
     )
     return response
 

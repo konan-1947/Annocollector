@@ -7,6 +7,7 @@ Two files are read, in order (later wins):
 
 from functools import lru_cache
 from pathlib import Path
+from typing import Literal
 
 from pydantic_settings import BaseSettings, SettingsConfigDict
 from sqlalchemy.engine import URL
@@ -65,6 +66,8 @@ class Settings(BaseSettings):
     REFRESH_TOKEN_DAYS: int = 7
     ACTIVATION_TOKEN_HOURS: int = 72
     REFRESH_COOKIE_SECURE: bool = True
+    # "none" when FE and API live on different sites (e.g. two *.onrender.com hosts)
+    REFRESH_COOKIE_SAMESITE: Literal["strict", "lax", "none"] = "strict"
     LOGIN_RATE_LIMIT: int = 10  # attempts per minute per ip + email
     FRONTEND_URL: str = "http://localhost:3000"
 
