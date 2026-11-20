@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1400" viewBox="0 0 2400 1400" font-family="Arial,sans-serif">
+<rect width="100%" height="100%" fill="#0f172a"/>
+<text x="180.0" y="60" fill="#94a3b8" font-size="30" text-anchor="middle">Clients</text>
+<text x="588.0" y="60" fill="#94a3b8" font-size="30" text-anchor="middle">Gateway</text>
+<text x="996.0" y="60" fill="#94a3b8" font-size="30" text-anchor="middle">Services</text>
+<text x="1404.0" y="60" fill="#94a3b8" font-size="30" text-anchor="middle">Queues</text>
+<text x="1812.0" y="60" fill="#94a3b8" font-size="30" text-anchor="middle">Workers</text>
+<text x="2220.0" y="60" fill="#94a3b8" font-size="30" text-anchor="middle">Storage</text>
+<path d="M180.0 230.0 C330.0 230.0 438.0 730.0 588.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 230.0 C330.0 230.0 438.0 330.0 588.0 330.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 230.0 C330.0 230.0 438.0 1130.0 588.0 1130.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 430.0 C330.0 430.0 438.0 1130.0 588.0 1130.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 430.0 C330.0 430.0 438.0 330.0 588.0 330.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 430.0 C330.0 430.0 438.0 730.0 588.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 630.0 C330.0 630.0 438.0 1130.0 588.0 1130.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 630.0 C330.0 630.0 438.0 330.0 588.0 330.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 630.0 C330.0 630.0 438.0 730.0 588.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 830.0 C330.0 830.0 438.0 1130.0 588.0 1130.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 830.0 C330.0 830.0 438.0 330.0 588.0 330.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 830.0 C330.0 830.0 438.0 730.0 588.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 1030.0 C330.0 1030.0 438.0 330.0 588.0 330.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 1030.0 C330.0 1030.0 438.0 1130.0 588.0 1130.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 1030.0 C330.0 1030.0 438.0 730.0 588.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 1230.0 C330.0 1230.0 438.0 730.0 588.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 1230.0 C330.0 1230.0 438.0 330.0 588.0 330.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M180.0 1230.0 C330.0 1230.0 438.0 1130.0 588.0 1130.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M588.0 330.0 C738.0 330.0 846.0 355.0 996.0 355.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M588.0 330.0 C738.0 330.0 846.0 805.0 996.0 805.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M588.0 330.0 C738.0 330.0 846.0 655.0 996.0 655.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M588.0 730.0 C738.0 730.0 846.0 205.0 996.0 205.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M588.0 730.0 C738.0 730.0 846.0 1105.0 996.0 1105.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M588.0 730.0 C738.0 730.0 846.0 805.0 996.0 805.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M588.0 1130.0 C738.0 1130.0 846.0 355.0 996.0 355.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M588.0 1130.0 C738.0 1130.0 846.0 1255.0 996.0 1255.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M588.0 1130.0 C738.0 1130.0 846.0 955.0 996.0 955.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 205.0 C1146.0 205.0 1254.0 280.0 1404.0 280.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 205.0 C1146.0 205.0 1254.0 880.0 1404.0 880.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 205.0 C1146.0 205.0 1254.0 580.0 1404.0 580.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 355.0 C1146.0 355.0 1254.0 280.0 1404.0 280.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 355.0 C1146.0 355.0 1254.0 1180.0 1404.0 1180.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 355.0 C1146.0 355.0 1254.0 880.0 1404.0 880.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 505.0 C1146.0 505.0 1254.0 580.0 1404.0 580.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 505.0 C1146.0 505.0 1254.0 1180.0 1404.0 1180.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 505.0 C1146.0 505.0 1254.0 880.0 1404.0 880.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 655.0 C1146.0 655.0 1254.0 580.0 1404.0 580.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 655.0 C1146.0 655.0 1254.0 880.0 1404.0 880.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 655.0 C1146.0 655.0 1254.0 280.0 1404.0 280.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 805.0 C1146.0 805.0 1254.0 880.0 1404.0 880.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 805.0 C1146.0 805.0 1254.0 1180.0 1404.0 1180.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 805.0 C1146.0 805.0 1254.0 280.0 1404.0 280.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 955.0 C1146.0 955.0 1254.0 280.0 1404.0 280.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 955.0 C1146.0 955.0 1254.0 880.0 1404.0 880.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 955.0 C1146.0 955.0 1254.0 1180.0 1404.0 1180.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 1105.0 C1146.0 1105.0 1254.0 880.0 1404.0 880.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 1105.0 C1146.0 1105.0 1254.0 280.0 1404.0 280.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 1105.0 C1146.0 1105.0 1254.0 1180.0 1404.0 1180.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 1255.0 C1146.0 1255.0 1254.0 280.0 1404.0 280.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 1255.0 C1146.0 1255.0 1254.0 880.0 1404.0 880.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M996.0 1255.0 C1146.0 1255.0 1254.0 1180.0 1404.0 1180.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1404.0 280.0 C1554.0 280.0 1662.0 730.0 1812.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1404.0 280.0 C1554.0 280.0 1662.0 1072.857142857143 1812.0 1072.857142857143" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1404.0 280.0 C1554.0 280.0 1662.0 901.4285714285714 1812.0 901.4285714285714" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1404.0 580.0 C1554.0 580.0 1662.0 730.0 1812.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1404.0 580.0 C1554.0 580.0 1662.0 558.5714285714286 1812.0 558.5714285714286" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1404.0 580.0 C1554.0 580.0 1662.0 1244.2857142857142 1812.0 1244.2857142857142" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1404.0 880.0 C1554.0 880.0 1662.0 901.4285714285714 1812.0 901.4285714285714" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1404.0 880.0 C1554.0 880.0 1662.0 730.0 1812.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1404.0 880.0 C1554.0 880.0 1662.0 558.5714285714286 1812.0 558.5714285714286" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1404.0 1180.0 C1554.0 1180.0 1662.0 558.5714285714286 1812.0 558.5714285714286" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1404.0 1180.0 C1554.0 1180.0 1662.0 387.14285714285717 1812.0 387.14285714285717" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1404.0 1180.0 C1554.0 1180.0 1662.0 1072.857142857143 1812.0 1072.857142857143" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 215.71428571428572 C1962.0 215.71428571428572 2070.0 490.0 2220.0 490.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 215.71428571428572 C1962.0 215.71428571428572 2070.0 250.0 2220.0 250.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 215.71428571428572 C1962.0 215.71428571428572 2070.0 730.0 2220.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 387.14285714285717 C1962.0 387.14285714285717 2070.0 730.0 2220.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 387.14285714285717 C1962.0 387.14285714285717 2070.0 970.0 2220.0 970.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 387.14285714285717 C1962.0 387.14285714285717 2070.0 490.0 2220.0 490.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 558.5714285714286 C1962.0 558.5714285714286 2070.0 970.0 2220.0 970.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 558.5714285714286 C1962.0 558.5714285714286 2070.0 730.0 2220.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 558.5714285714286 C1962.0 558.5714285714286 2070.0 1210.0 2220.0 1210.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 730.0 C1962.0 730.0 2070.0 250.0 2220.0 250.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 730.0 C1962.0 730.0 2070.0 1210.0 2220.0 1210.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 730.0 C1962.0 730.0 2070.0 730.0 2220.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 901.4285714285714 C1962.0 901.4285714285714 2070.0 970.0 2220.0 970.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 901.4285714285714 C1962.0 901.4285714285714 2070.0 490.0 2220.0 490.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 901.4285714285714 C1962.0 901.4285714285714 2070.0 1210.0 2220.0 1210.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 1072.857142857143 C1962.0 1072.857142857143 2070.0 490.0 2220.0 490.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 1072.857142857143 C1962.0 1072.857142857143 2070.0 970.0 2220.0 970.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 1072.857142857143 C1962.0 1072.857142857143 2070.0 1210.0 2220.0 1210.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 1244.2857142857142 C1962.0 1244.2857142857142 2070.0 250.0 2220.0 250.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 1244.2857142857142 C1962.0 1244.2857142857142 2070.0 1210.0 2220.0 1210.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<path d="M1812.0 1244.2857142857142 C1962.0 1244.2857142857142 2070.0 730.0 2220.0 730.0" stroke="#475569" stroke-width="2" fill="none" opacity=".7"/>
+<rect x="85.0" y="196.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+<text x="180.0" y="226.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Client 1</text>
+<text x="180.0" y="252.0" fill="#38bdf8" font-size="15" text-anchor="middle">node-00 · 83ms · 6.5k rps</text>
+<rect x="85.0" y="396.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+<text x="180.0" y="426.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Client 2</text>
+<text x="180.0" y="452.0" fill="#38bdf8" font-size="15" text-anchor="middle">node-01 · 98ms · 6.9k rps</text>
+<rect x="85.0" y="596.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+<text x="180.0" y="626.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Client 3</text>
+<text x="180.0" y="652.0" fill="#38bdf8" font-size="15" text-anchor="middle">node-02 · 73ms · 8.1k rps</text>
+<rect x="85.0" y="796.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+<text x="180.0" y="826.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Client 4</text>
+<text x="180.0" y="852.0" fill="#38bdf8" font-size="15" text-anchor="middle">node-03 · 21ms · 5.7k rps</text>
+<rect x="85.0" y="996.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+<text x="180.0" y="1026.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Client 5</text>
+<text x="180.0" y="1052.0" fill="#38bdf8" font-size="15" text-anchor="middle">node-04 · 99ms · 2.0k rps</text>
+<rect x="85.0" y="1196.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+<text x="180.0" y="1226.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Client 6</text>
+<text x="180.0" y="1252.0" fill="#38bdf8" font-size="15" text-anchor="middle">node-05 · 99ms · 5.9k rps</text>
+<rect x="493.0" y="296.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#a78bfa" stroke-width="3"/>
+<text x="588.0" y="326.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Gatewa 1</text>
+<text x="588.0" y="352.0" fill="#a78bfa" font-size="15" text-anchor="middle">node-10 · 97ms · 8.4k rps</text>
+<rect x="493.0" y="696.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#a78bfa" stroke-width="3"/>
+<text x="588.0" y="726.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Gatewa 2</text>
+<text x="588.0" y="752.0" fill="#a78bfa" font-size="15" text-anchor="middle">node-11 · 59ms · 6.0k rps</text>
+<rect x="493.0" y="1096.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#a78bfa" stroke-width="3"/>
+<text x="588.0" y="1126.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Gatewa 3</text>
+<text x="588.0" y="1152.0" fill="#a78bfa" font-size="15" text-anchor="middle">node-12 · 69ms · 6.2k rps</text>
+<rect x="901.0" y="171.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#f472b6" stroke-width="3"/>
+<text x="996.0" y="201.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Service 1</text>
+<text x="996.0" y="227.0" fill="#f472b6" font-size="15" text-anchor="middle">node-20 · 88ms · 2.7k rps</text>
+<rect x="901.0" y="321.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#f472b6" stroke-width="3"/>
+<text x="996.0" y="351.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Service 2</text>
+<text x="996.0" y="377.0" fill="#f472b6" font-size="15" text-anchor="middle">node-21 · 17ms · 4.4k rps</text>
+<rect x="901.0" y="471.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#f472b6" stroke-width="3"/>
+<text x="996.0" y="501.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Service 3</text>
+<text x="996.0" y="527.0" fill="#f472b6" font-size="15" text-anchor="middle">node-22 · 26ms · 4.6k rps</text>
+<rect x="901.0" y="621.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#f472b6" stroke-width="3"/>
+<text x="996.0" y="651.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Service 4</text>
+<text x="996.0" y="677.0" fill="#f472b6" font-size="15" text-anchor="middle">node-23 · 60ms · 8.1k rps</text>
+<rect x="901.0" y="771.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#f472b6" stroke-width="3"/>
+<text x="996.0" y="801.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Service 5</text>
+<text x="996.0" y="827.0" fill="#f472b6" font-size="15" text-anchor="middle">node-24 · 31ms · 8.6k rps</text>
+<rect x="901.0" y="921.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#f472b6" stroke-width="3"/>
+<text x="996.0" y="951.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Service 6</text>
+<text x="996.0" y="977.0" fill="#f472b6" font-size="15" text-anchor="middle">node-25 · 80ms · 5.2k rps</text>
+<rect x="901.0" y="1071.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#f472b6" stroke-width="3"/>
+<text x="996.0" y="1101.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Service 7</text>
+<text x="996.0" y="1127.0" fill="#f472b6" font-size="15" text-anchor="middle">node-26 · 65ms · 9.4k rps</text>
+<rect x="901.0" y="1221.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#f472b6" stroke-width="3"/>
+<text x="996.0" y="1251.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Service 8</text>
+<text x="996.0" y="1277.0" fill="#f472b6" font-size="15" text-anchor="middle">node-27 · 63ms · 6.6k rps</text>
+<rect x="1309.0" y="246.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#fbbf24" stroke-width="3"/>
+<text x="1404.0" y="276.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Queue 1</text>
+<text x="1404.0" y="302.0" fill="#fbbf24" font-size="15" text-anchor="middle">node-30 · 39ms · 3.1k rps</text>
+<rect x="1309.0" y="546.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#fbbf24" stroke-width="3"/>
+<text x="1404.0" y="576.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Queue 2</text>
+<text x="1404.0" y="602.0" fill="#fbbf24" font-size="15" text-anchor="middle">node-31 · 32ms · 3.3k rps</text>
+<rect x="1309.0" y="846.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#fbbf24" stroke-width="3"/>
+<text x="1404.0" y="876.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Queue 3</text>
+<text x="1404.0" y="902.0" fill="#fbbf24" font-size="15" text-anchor="middle">node-32 · 94ms · 4.0k rps</text>
+<rect x="1309.0" y="1146.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#fbbf24" stroke-width="3"/>
+<text x="1404.0" y="1176.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Queue 4</text>
+<text x="1404.0" y="1202.0" fill="#fbbf24" font-size="15" text-anchor="middle">node-33 · 72ms · 3.4k rps</text>
+<rect x="1717.0" y="181.71428571428572" width="190" height="68" rx="14" fill="#1e293b" stroke="#34d399" stroke-width="3"/>
+<text x="1812.0" y="211.71428571428572" fill="#f1f5f9" font-size="22" text-anchor="middle">Worker 1</text>
+<text x="1812.0" y="237.71428571428572" fill="#34d399" font-size="15" text-anchor="middle">node-40 · 46ms · 1.2k rps</text>
+<rect x="1717.0" y="353.14285714285717" width="190" height="68" rx="14" fill="#1e293b" stroke="#34d399" stroke-width="3"/>
+<text x="1812.0" y="383.14285714285717" fill="#f1f5f9" font-size="22" text-anchor="middle">Worker 2</text>
+<text x="1812.0" y="409.14285714285717" fill="#34d399" font-size="15" text-anchor="middle">node-41 · 63ms · 9.5k rps</text>
+<rect x="1717.0" y="524.5714285714286" width="190" height="68" rx="14" fill="#1e293b" stroke="#34d399" stroke-width="3"/>
+<text x="1812.0" y="554.5714285714286" fill="#f1f5f9" font-size="22" text-anchor="middle">Worker 3</text>
+<text x="1812.0" y="580.5714285714286" fill="#34d399" font-size="15" text-anchor="middle">node-42 · 88ms · 6.2k rps</text>
+<rect x="1717.0" y="696.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#34d399" stroke-width="3"/>
+<text x="1812.0" y="726.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Worker 4</text>
+<text x="1812.0" y="752.0" fill="#34d399" font-size="15" text-anchor="middle">node-43 · 98ms · 9.9k rps</text>
+<rect x="1717.0" y="867.4285714285714" width="190" height="68" rx="14" fill="#1e293b" stroke="#34d399" stroke-width="3"/>
+<text x="1812.0" y="897.4285714285714" fill="#f1f5f9" font-size="22" text-anchor="middle">Worker 5</text>
+<text x="1812.0" y="923.4285714285714" fill="#34d399" font-size="15" text-anchor="middle">node-44 · 93ms · 1.7k rps</text>
+<rect x="1717.0" y="1038.857142857143" width="190" height="68" rx="14" fill="#1e293b" stroke="#34d399" stroke-width="3"/>
+<text x="1812.0" y="1068.857142857143" fill="#f1f5f9" font-size="22" text-anchor="middle">Worker 6</text>
+<text x="1812.0" y="1094.857142857143" fill="#34d399" font-size="15" text-anchor="middle">node-45 · 97ms · 9.6k rps</text>
+<rect x="1717.0" y="1210.2857142857142" width="190" height="68" rx="14" fill="#1e293b" stroke="#34d399" stroke-width="3"/>
+<text x="1812.0" y="1240.2857142857142" fill="#f1f5f9" font-size="22" text-anchor="middle">Worker 7</text>
+<text x="1812.0" y="1266.2857142857142" fill="#34d399" font-size="15" text-anchor="middle">node-46 · 60ms · 7.6k rps</text>
+<rect x="2125.0" y="216.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#fb7185" stroke-width="3"/>
+<text x="2220.0" y="246.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Storag 1</text>
+<text x="2220.0" y="272.0" fill="#fb7185" font-size="15" text-anchor="middle">node-50 · 23ms · 8.6k rps</text>
+<rect x="2125.0" y="456.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#fb7185" stroke-width="3"/>
+<text x="2220.0" y="486.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Storag 2</text>
+<text x="2220.0" y="512.0" fill="#fb7185" font-size="15" text-anchor="middle">node-51 · 17ms · 4.1k rps</text>
+<rect x="2125.0" y="696.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#fb7185" stroke-width="3"/>
+<text x="2220.0" y="726.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Storag 3</text>
+<text x="2220.0" y="752.0" fill="#fb7185" font-size="15" text-anchor="middle">node-52 · 36ms · 8.2k rps</text>
+<rect x="2125.0" y="936.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#fb7185" stroke-width="3"/>
+<text x="2220.0" y="966.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Storag 4</text>
+<text x="2220.0" y="992.0" fill="#fb7185" font-size="15" text-anchor="middle">node-53 · 24ms · 6.9k rps</text>
+<rect x="2125.0" y="1176.0" width="190" height="68" rx="14" fill="#1e293b" stroke="#fb7185" stroke-width="3"/>
+<text x="2220.0" y="1206.0" fill="#f1f5f9" font-size="22" text-anchor="middle">Storag 5</text>
+<text x="2220.0" y="1232.0" fill="#fb7185" font-size="15" text-anchor="middle">node-54 · 16ms · 2.0k rps</text>
+<text x="40" y="1370" fill="#64748b" font-size="16">Tiny footnote text — zoom in to read: synthetic topology generated for testing the image viewer.</text></svg>

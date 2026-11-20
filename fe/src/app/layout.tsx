@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Annocollector",
-  description: "Next.js frontend for the Annocollector FastAPI backend",
+  description: "Giao diện Next.js cho backend FastAPI của Annocollector",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
